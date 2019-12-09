@@ -1,0 +1,23 @@
+{
+  "name": "the-internet",
+  "version": "1.0.0",
+  "description": "Test automation using Cypress on The Internet website",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^3.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NWhitter/Cypress-UI-Automation-The-Internet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NWhitter/Cypress-UI-Automation-The-Internet/issues"
+  },
+  "homepage": "https://github.com/NWhitter/Cypress-UI-Automation-The-Internet#readme"
+}
