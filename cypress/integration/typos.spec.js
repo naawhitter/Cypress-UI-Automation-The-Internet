@@ -1,6 +1,5 @@
 import { visit, checkText } from '../pages/typos.page'
 
-
 describe('Typos Page', () => {
     beforeEach(() => {
         visit()
